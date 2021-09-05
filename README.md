@@ -1,8 +1,8 @@
 # NextJS Crypto Price Trakcer App
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/mdarifuzzaman11/Carfax_VIN_Automations?style=for-the-badge) 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mdarifuzzaman11/nextjs-crypto-price-tracker-app?style=for-the-badge) 
 ![APM](https://img.shields.io/apm/l/test?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/mdarifuzzaman11/Carfax_VIN_Automations?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/mdarifuzzaman11/nextjs-crypto-price-tracker-app?style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/mdarifuzzaman11?style=for-the-badge)
 
 ## Description
@@ -19,7 +19,7 @@ npx create-next-app nextjs-crypto-price-tracker-app
 ```
 * NOTE: Rename crypto-price-tracker-app with what you like!
 
-**Installing dependencies:
+* Installing dependencies:
 - react
 - react-dom
 - next
@@ -47,12 +47,12 @@ OR
 yarn dev
 ```
 
-#Hoow to Get the API?
+## How to Get the API?
 LINK: https://www.coingecko.com/en/api
 
 Once you are on this page, just click get started and it will scroll down to the different options. I used the "/coins/markets" one and the "/coins/id" for the separate coin page.
 
-#Work Environmnet
+## Work Environmnet
 * VS Code
 * VS extension "ES7 React/Redux/GraphQL/React-Native snippets " 
 * Google Chrome 
@@ -73,6 +73,8 @@ MD Arifuzzaman
 
 * 0.0.1
     * Initial Release
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## License
 
